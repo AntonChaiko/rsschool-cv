@@ -38,3 +38,6 @@ class Meeting {
   }
 }
 ```
+## **Experience:** Create DictionaryApp
+## **Education:** Brest State Technical University
+## **English:** intermediate
